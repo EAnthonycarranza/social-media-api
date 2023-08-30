@@ -18,8 +18,6 @@ const getAllUsers = async (req, res) => {
 const getUserById = async (req, res) => {
     const userId = req.params.userId; // Updated to userId for consistency
     
-    console.log('User ID:', userId); // For debugging purposes
-    
     // Validate userId
     if (!isValidObjectId(userId)) {
         return res.status(400).json({ error: 'Invalid ID format.' });
