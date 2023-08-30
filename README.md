@@ -58,7 +58,7 @@ npm start
 
 Check out our API demo video to see the Social Media API in action. The video demonstrates each CRUD operation, friend management, and reaction handling.
 
-[Watch the Demo Video](https://www.example.com/demo)
+[Watch the Demo Video](https://youtu.be/HVc1zJpcKns)
 
 ## Contributing
 
