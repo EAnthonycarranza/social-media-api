@@ -12,7 +12,6 @@ Welcome to the Social Media API documentation! This API allows users to create, 
   - [Thoughts](#thoughts)
   - [Reactions](#reactions)
 - [Demo](#demo)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -59,10 +58,6 @@ npm start
 Check out our API demo video to see the Social Media API in action. The video demonstrates each CRUD operation, friend management, and reaction handling.
 
 [Watch the Demo Video](https://youtu.be/HVc1zJpcKns)
-
-## Contributing
-
-We welcome contributions from the community! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
